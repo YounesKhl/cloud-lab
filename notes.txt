@@ -1,3 +1,4 @@
 Day 1: Networking fundamentals
 Day 2: Git fundamentals
 Day 3: AWS coming next
+Day 4: Remote Git practice
